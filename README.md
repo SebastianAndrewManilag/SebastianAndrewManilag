@@ -33,12 +33,12 @@ I am **Sebastian Andrew N. Manilag**, a tech enthusiast with a flair for coding 
 
 **Databases**
 * **IBM DB2 Cloud**
+* **MongoDB**
 
 **Tools**
-* Lucidchart | Jaspersoft Studio | Eclipse
+* Lucidchart | Jaspersoft Studio | IntelliJ
 
 ---
 
 ### 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-sebastianmanilag111%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:sebastianmanilag111@gmail.com)
-
