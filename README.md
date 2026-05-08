@@ -35,5 +35,5 @@ I am **Sebastian Andrew N. Manilag**, a tech enthusiast with a flair for coding 
 ---
 
 ### 📫 Let's Connect!
-* **Email:** [![sebastianmanilag111@gmail.com](https://img.shields.io/badge/Email-sebastianmanilag111@gmail.com-blue?style=flat-square&logo=gmail)](mailto:sebastianmanilag111@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sebastianmanilag111%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:sebastianmanilag111@gmail.com)
 
