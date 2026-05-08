@@ -21,9 +21,12 @@ I am **Sebastian Andrew N. Manilag**, a tech enthusiast with a flair for coding 
 * [Oracle Cloud Data Management 2023 Certified Foundations Associate](INSERT_LINK_HERE)
 
 ---
+## My projects
+- [Library Management System](https://projmidterm.ct.ws/PROJECT_IM/main.php)
+
+---
 
 ### 🚀 Skill Sets
-
 **Programming & Web**
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) **Java**
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) **JavaScript**
