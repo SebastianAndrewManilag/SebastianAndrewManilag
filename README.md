@@ -20,7 +20,7 @@ I am **Sebastian Andrew N. Manilag**, a tech enthusiast with a flair for coding 
 * [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=90A36A4AC741FB570E54783E474EDAD5CA2F61275D20D9B4B89289AFEFFA2F4D)
 
 ---
-## My projects
+## 💻  My projects
 - [Library Management System](https://projmidterm.ct.ws/PROJECT_IM/main.php)
 
 ---
